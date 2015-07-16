@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- <PreferenceCategory android:title="User Settings"> -->
+	<!-- <EditTextPreference android:key="username" android:summary="Please 
+		maintain your username" android:title="User Name"></EditTextPreference><ListPreference 
+		android:entries="@array/tramRoutes" android:entryValues="@array/tramRoutes"></ListPreference> -->
+	<!-- -->
+	<!-- </PreferenceCategory> -->
+	<PreferenceCategory android:title="Tram route preferences"
+		android:key="tram_route">
+		<CheckBoxPreference android:key="enable_tram_route_pref"
+			android:summary="Enable/disable favorite tram routes" android:title="Customize tram route"
+			android:defaultValue="false" />
+		<ListPreference android:key="favorite_tram_route"
+			android:title="Favorite Tram Route" android:summary="Select your favorite tram route."
+			android:defaultValue="938" android:entries="@array/tramRoutes"
+			android:entryValues="@array/tramRoutesValues" android:dependency="enable_tram_route_pref" />
+	</PreferenceCategory>
+
+	<PreferenceCategory android:title="Events"
+		android:key="event">
+		<CheckBoxPreference android:key="enable_event_pref"
+			android:summary="Enable/disable favorite events" android:title="Customize event"
+			android:defaultValue="false" />
+		<ListPreference android:key="event_category_pref"
+			android:title="Favorite Event Category" android:summary="Select your favorite event category."
+			android:defaultValue="art" android:entries="@array/eventCategories"
+			android:entryValues="@array/eventCategoriesValues"
+			android:dependency="enable_event_pref">
+		</ListPreference>
+	</PreferenceCategory>
+
+</PreferenceScreen>

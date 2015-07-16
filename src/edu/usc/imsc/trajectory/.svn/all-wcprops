@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory
+END
+TrajectoryJsonParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory/TrajectoryJsonParser.java
+END
+TrajectoryPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory/TrajectoryPath.java
+END
+TrajectoryApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory/TrajectoryApp.java
+END
+TrajectoryStopOverlayItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory/TrajectoryStopOverlayItem.java
+END
+HistoryLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory/HistoryLocation.java
+END
+TrajectoryStop.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory/TrajectoryStop.java
+END
+TrajectoryStopOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory/TrajectoryStopOverlay.java
+END
+TrajectoryPathOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory/TrajectoryPathOverlay.java
+END
+TrajectoryStopDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/trajectory/TrajectoryStopDialog.java
+END

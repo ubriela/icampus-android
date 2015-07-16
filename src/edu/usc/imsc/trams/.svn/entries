@@ -1,0 +1,37 @@
+10
+
+dir
+285
+https://icampus.usc.edu/svn/icampus/iCampusMobile_1.0/src/edu/usc/imsc/trams
+https://icampus.usc.edu/svn/icampus
+
+
+
+2011-10-12T15:54:29.116923Z
+272
+nick
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f2dd8b22-5153-b743-9f39-7ee7fafa066f
+
+app
+dir
+
+stops
+dir
+
+vehicles
+dir
+

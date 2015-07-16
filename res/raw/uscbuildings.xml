@@ -1,0 +1,758 @@
+<resource>
+	<Placemark>
+		<id>1080</id>
+		<name>Hedco Chemical Engineering</name>
+		<shortName>HED</shortName>
+		<lat>34.0202629261066</lat>
+		<lon>-118.28905897388</lon>
+	</Placemark>
+	<Placemark>
+		<id>1081</id>
+		<name>Neely Petroleum Engineering</name>
+		<shortName>PCE</shortName>
+		<lat>34.0201008423196</lat>
+		<lon>-118.288734663832</lon>
+	</Placemark>
+	<Placemark>
+		<id>1000</id>
+		<name>Seaver Science Library</name>
+		<shortName>SSL</shortName>
+		<lat>34.019578861023</lat>
+		<lon>-118.288675940292</lon>
+	</Placemark>
+	<Placemark>
+		<id>1086</id>
+		<name>Vivian Hall</name>
+		<shortName>VHE</shortName>
+		<lat>34.0201575291771</lat>
+		<lon>-118.288158809561</lon>
+	</Placemark>
+	<Placemark>
+		<id>1093</id>
+		<name>Hedco Neurosciences Building</name>
+		<shortName>HNB</shortName>
+		<lat>34.0207417532695</lat>
+		<lon>-118.287796913766</lon>
+	</Placemark>
+	<Placemark>
+		<id>1095</id>
+		<name>Rapp Engineering Building</name>
+		<shortName>RRB</shortName>
+		<lat>34.0200665048497</lat>
+		<lon>-118.287410837236</lon>
+	</Placemark>
+	<Placemark>
+		<id>1039</id>
+		<name>Lindhurst Fine Arts Gallery</name>
+		<shortName>WAH</shortName>
+		<lat>34.0191440731458</lat>
+		<lon>-118.2879368566</lon>
+	</Placemark>
+	<Placemark>
+		<id>1097</id>
+		<name>Loker Hydrocarbon Research Institute</name>
+		<shortName>LHI</shortName>
+		<lat>34.0197415636522</lat>
+		<lon>-118.287764102497</lon>
+	</Placemark>
+	<Placemark>
+		<id>1109</id>
+		<name>Stabler Hall</name>
+		<shortName>LJS</shortName>
+		<lat>34.0199245001944</lat>
+		<lon>-118.286940499748</lon>
+	</Placemark>
+	<Placemark>
+		<id>1113</id>
+		<name>Andrus Gerontology Center</name>
+		<shortName>GER</shortName>
+		<lat>34.0202460000854</lat>
+		<lon>-118.290589500301</lon>
+	</Placemark>
+	<Placemark>
+		<id>1117</id>
+		<name>Stauffer Science Lecture Hall</name>
+		<shortName>SLH</shortName>
+		<lat>34.0196515152152</lat>
+		<lon>-118.287490738249</lon>
+	</Placemark>
+	<Placemark>
+		<id>1110</id>
+		<name>Stauffer Hall</name>
+		<shortName>SHS</shortName>
+		<lat>34.019732509338</lat>
+		<lon>-118.286537842795</lon>
+	</Placemark>
+	<Placemark>
+		<id>1121</id>
+		<name>Electron Microscopy and Microanalysis Center</name>
+		<shortName>CEM</shortName>
+		<lat>34.0193874850096</lat>
+		<lon>-118.28659182394</lon>
+	</Placemark>
+	<Placemark>
+		<id>1123</id>
+		<name>Harris Hall</name>
+		<shortName>HAR</shortName>
+		<lat>34.0188695061908</lat>
+		<lon>-118.287323868212</lon>
+	</Placemark>
+	<Placemark>
+		<id>1125</id>
+		<name>Mudd Hall</name>
+		<shortName>MHP</shortName>
+		<lat>34.0186705118694</lat>
+		<lon>-118.286750210055</lon>
+	</Placemark>
+	<Placemark>
+		<id>1126</id>
+		<name>YWCA, Belle D. Vivian</name>
+		<shortName>YWC</shortName>
+		<lat>34.0204801069189</lat>
+		<lon>-118.287263741839</lon>
+	</Placemark>
+	<Placemark>
+		<id>1127</id>
+		<name>Hall Building</name>
+		<shortName>HSH</shortName>
+		<lat>34.0204066446914</lat>
+		<lon>-118.287037529438</lon>
+	</Placemark>
+	<Placemark>
+		<id>1128</id>
+		<name>Stonier Hall</name>
+		<shortName>STO</shortName>
+		<lat>34.0203018689342</lat>
+		<lon>-118.286778363266</lon>
+	</Placemark>
+	<Placemark>
+		<id>1129</id>
+		<name>Trojan Bookstore</name>
+		<shortName>BKS</shortName>
+		<lat>34.0207156792946</lat>
+		<lon>-118.286453912962</lon>
+	</Placemark>
+	<Placemark>
+		<id>1134</id>
+		<name>Student Union</name>
+		<shortName>STU</shortName>
+		<lat>34.0202098185817</lat>
+		<lon>-118.285686557556</lon>
+	</Placemark>
+	<Placemark>
+		<id>1135</id>
+		<name>Tutor Campus Center</name>
+		<shortName>TCC</shortName>
+		<lat>34.0198749655114</lat>
+		<lon>-118.28601931851</lon>
+	</Placemark>
+	<Placemark>
+		<id>1137</id>
+		<name>Zumberge Hall</name>
+		<shortName>ZHS</shortName>
+		<lat>34.0191786100891</lat>
+		<lon>-118.286344860116</lon>
+	</Placemark>
+	<Placemark>
+		<id>1140</id>
+		<name>Bridge Hall</name>
+		<shortName>BRI</shortName>
+		<lat>34.0188416395084</lat>
+		<lon>-118.285690287204</lon>
+	</Placemark>
+	<Placemark>
+		<id>1142</id>
+		<name>Hoffman Hall</name>
+		<shortName>HOH</shortName>
+		<lat>34.0187615945893</lat>
+		<lon>-118.285155164315</lon>
+	</Placemark>
+	<Placemark>
+		<id>1147</id>
+		<name>Leventhal School of Accounting</name>
+		<shortName>ACC</shortName>
+		<lat>34.0191753195636</lat>
+		<lon>-118.285502545232</lon>
+	</Placemark>
+	<Placemark>
+		<id>1149</id>
+		<name>Hancock Foundation Building</name>
+		<shortName>AHF</shortName>
+		<lat>34.0196888476548</lat>
+		<lon>-118.28497881364</lon>
+	</Placemark>
+	<Placemark>
+		<id>1154</id>
+		<name>Musick Law Building</name>
+		<shortName>LAW</shortName>
+		<lat>34.0186895361926</lat>
+		<lon>-118.284294094019</lon>
+	</Placemark>
+	<Placemark>
+		<id>1158</id>
+		<name>Town and Gown</name>
+		<shortName>TGF</shortName>
+		<lat>34.0190943603667</lat>
+		<lon>-118.284186175993</lon>
+	</Placemark>
+	<Placemark>
+		<id>1159</id>
+		<name>University Club</name>
+		<shortName>FAC</shortName>
+		<lat>34.0188291795737</lat>
+		<lon>-118.283515985028</lon>
+	</Placemark>
+	<Placemark>
+		<id>1162</id>
+		<name>Lewis Hall</name>
+		<shortName>RGL</shortName>
+		<lat>34.0192689177276</lat>
+		<lon>-118.283479039685</lon>
+	</Placemark>
+	<Placemark>
+		<id>1166</id>
+		<name>Popovich Hall</name>
+		<shortName>JKP</shortName>
+		<lat>34.0188117178267</lat>
+		<lon>-118.282828486564</lon>
+	</Placemark>
+	<Placemark>
+		<id>1167</id>
+		<name>Registration Building</name>
+		<shortName>REG</shortName>
+		<lat>34.0187350000305</lat>
+		<lon>-118.282333500007</lon>
+	</Placemark>
+	<Placemark>
+		<id>1170</id>
+		<name>Trojan Residence Hall</name>
+		<shortName>TRO</shortName>
+		<lat>34.0193356777737</lat>
+		<lon>-118.281982432497</lon>
+	</Placemark>
+	<Placemark>
+		<id>1171</id>
+		<name>Marks Tower</name>
+		<shortName>DMT</shortName>
+		<lat>34.0197121788835</lat>
+		<lon>-118.281984307476</lon>
+	</Placemark>
+	<Placemark>
+		<id>1173</id>
+		<name>Pardee Tower</name>
+		<shortName>PTD</shortName>
+		<lat>34.0200298774538</lat>
+		<lon>-118.282549092663</lon>
+	</Placemark>
+	<Placemark>
+		<id>1176</id>
+		<name>Parking Structure X</name>
+		<shortName>PSX</shortName>
+		<lat>34.0204202881504</lat>
+		<lon>-118.282003485027</lon>
+	</Placemark>
+	<Placemark>
+		<id>1177</id>
+		<name>Figueroa Building</name>
+		<shortName>FIG</shortName>
+		<lat>34.0199060381876</lat>
+		<lon>-118.281524680123</lon>
+	</Placemark>
+	<Placemark>
+		<id>1178</id>
+		<name>University Gardens Building</name>
+		<shortName>UGB</shortName>
+		<lat>34.019923000366</lat>
+		<lon>-118.280430999748</lon>
+	</Placemark>
+	<Placemark>
+		<id>1180</id>
+		<name>Radisson Mid-City Hotel</name>
+		<shortName>RMH</shortName>
+		<lat>34.0190725695586</lat>
+		<lon>-118.281145556091</lon>
+	</Placemark>
+	<Placemark>
+		<id>1013</id>
+		<name>Parkside Apartments</name>
+		<shortName>PKS</shortName>
+		<lat>34.0192514834306</lat>
+		<lon>-118.290268425709</lon>
+	</Placemark>
+	<Placemark>
+		<id>1021</id>
+		<name>International Residential College at Parkside</name>
+		<shortName>IRC</shortName>
+		<lat>34.0192107085758</lat>
+		<lon>-118.29094370704</lon>
+	</Placemark>
+	<Placemark>
+		<id>1026</id>
+		<name>Parkside Restaurant</name>
+		<shortName>IRC</shortName>
+		<lat>34.0186995000013</lat>
+		<lon>-118.290535000075</lon>
+	</Placemark>
+	<Placemark>
+		<id>1027</id>
+		<name>Salvatori Computer Science Center</name>
+		<shortName>SAL</shortName>
+		<lat>34.0194481105187</lat>
+		<lon>-118.289436236764</lon>
+	</Placemark>
+	<Placemark>
+		<id>1011</id>
+		<name>Tutor Hall</name>
+		<shortName>RTH</shortName>
+		<lat>34.0200903918078</lat>
+		<lon>-118.289746603888</lon>
+	</Placemark>
+	<Placemark>
+		<id>1010</id>
+		<name>Olin Hall</name>
+		<shortName>OHE</shortName>
+		<lat>34.0206993133086</lat>
+		<lon>-118.289405105787</lon>
+	</Placemark>
+	<Placemark>
+		<id>1034</id>
+		<name>Hughes Aircraft Electrical Engineering Center</name>
+		<shortName>EEB</shortName>
+		<lat>34.0197144293578</lat>
+		<lon>-118.289995388179</lon>
+	</Placemark>
+	<Placemark>
+		<id>1003</id>
+		<name>Parking Structure A</name>
+		<shortName>PSA</shortName>
+		<lat>34.0210694475096</lat>
+		<lon>-118.290329942182</lon>
+	</Placemark>
+	<Placemark>
+		<id>1041</id>
+		<name>Von KleinSmid Center</name>
+		<shortName>VKC</shortName>
+		<lat>34.0211670005849</lat>
+		<lon>-118.283910999544</lon>
+	</Placemark>
+	<Placemark>
+		<id>1047</id>
+		<name>Zemeckis Center for Digital Arts</name>
+		<shortName>RZC</shortName>
+		<lat>34.0231730007991</lat>
+		<lon>-118.279884999195</lon>
+	</Placemark>
+	<Placemark>
+		<id>1048</id>
+		<name>Shrine Auditorium</name>
+		<shortName>SHR</shortName>
+		<lat>34.0232265194719</lat>
+		<lon>-118.281384176865</lon>
+	</Placemark>
+	<Placemark>
+		<id>1050</id>
+		<name>Corsica</name>
+		<shortName>COR</shortName>
+		<lat>34.0240758232394</lat>
+		<lon>-118.281223022306</lon>
+	</Placemark>
+	<Placemark>
+		<id>1052</id>
+		<name>Rosso's Pizzeria</name>
+		<shortName>null</shortName>
+		<lat>34.0195480000685</lat>
+		<lon>-118.280856500057</lon>
+	</Placemark>
+	<Placemark>
+		<id>1001</id>
+		<name>Powell Hall</name>
+		<shortName>PHE</shortName>
+		<lat>34.0191670000207</lat>
+		<lon>-118.288743500021</lon>
+	</Placemark>
+	<Placemark>
+		<id>1063</id>
+		<name>Seaver Science Center</name>
+		<shortName>SSC</shortName>
+		<lat>34.0198149994312</lat>
+		<lon>-118.289206129853</lon>
+	</Placemark>
+	<Placemark>
+		<id>1065</id>
+		<name>Denney Research Center</name>
+		<shortName>DRB</shortName>
+		<lat>34.0214363533654</lat>
+		<lon>-118.291089639483</lon>
+	</Placemark>
+	<Placemark>
+		<id>1068</id>
+		<name>Kaprielian Hall</name>
+		<shortName>KAP</shortName>
+		<lat>34.0224189227706</lat>
+		<lon>-118.290955436693</lon>
+	</Placemark>
+	<Placemark>
+		<id>1075</id>
+		<name>Seeley G. Mudd Building</name>
+		<shortName>SGM</shortName>
+		<lat>34.0216794421579</lat>
+		<lon>-118.288760922328</lon>
+	</Placemark>
+	<Placemark>
+		<id>1076</id>
+		<name>Grace Ford Salvatori Hall</name>
+		<shortName>GFS</shortName>
+		<lat>34.0213060118882</lat>
+		<lon>-118.287951746495</lon>
+	</Placemark>
+	<Placemark>
+		<id>1079</id>
+		<name>Biegler Hall</name>
+		<shortName>BHE</shortName>
+		<lat>34.0205666529617</lat>
+		<lon>-118.288474323301</lon>
+	</Placemark>
+	<Placemark>
+		<id>1243</id>
+		<name>Bing Theatre</name>
+		<shortName>BIT</shortName>
+		<lat>34.0224170248145</lat>
+		<lon>-118.285890560245</lon>
+	</Placemark>
+	<Placemark>
+		<id>1244</id>
+		<name>Annenberg Auditorium</name>
+		<shortName>ASC</shortName>
+		<lat>34.0219019187422</lat>
+		<lon>-118.285867005287</lon>
+	</Placemark>
+	<Placemark>
+		<id>1245</id>
+		<name>Annenberg School for Communication and Journalism</name>
+		<shortName>ASC</shortName>
+		<lat>34.0221025000412</lat>
+		<lon>-118.286323500114</lon>
+	</Placemark>
+	<Placemark>
+		<id>1248</id>
+		<name>Parking Structure One</name>
+		<shortName>PSO</shortName>
+		<lat>34.0176767198632</lat>
+		<lon>-118.281875985333</lon>
+	</Placemark>
+	<Placemark>
+		<id>1249</id>
+		<name>Tyler Building</name>
+		<shortName>TYL</shortName>
+		<lat>34.0181354935039</lat>
+		<lon>-118.281107703248</lon>
+	</Placemark>
+	<Placemark>
+		<id>1252</id>
+		<name>Marcia Lucas Building</name>
+		<shortName>LPB</shortName>
+		<lat>34.0228280000253</lat>
+		<lon>-118.285918500007</lon>
+	</Placemark>
+	<Placemark>
+		<id>1253</id>
+		<name>George Lucas Building</name>
+		<shortName>LUC</shortName>
+		<lat>34.0231697080224</lat>
+		<lon>-118.285820613375</lon>
+	</Placemark>
+	<Placemark>
+		<id>1254</id>
+		<name>Spielberg Stage</name>
+		<shortName>SSS</shortName>
+		<lat>34.0229850000387</lat>
+		<lon>-118.285508999976</lon>
+	</Placemark>
+	<Placemark>
+		<id>1255</id>
+		<name>Carson Center</name>
+		<shortName>CTV</shortName>
+		<lat>34.0230553854669</lat>
+		<lon>-118.28562933701</lon>
+	</Placemark>
+	<Placemark>
+		<id>1256</id>
+		<name>Lloyd Stage</name>
+		<shortName>CSS</shortName>
+		<lat>34.0231603235501</lat>
+		<lon>-118.2853960896</lon>
+	</Placemark>
+	<Placemark>
+		<id>1259</id>
+		<name>Student Health Center</name>
+		<shortName>SHC</shortName>
+		<lat>34.0234960850178</lat>
+		<lon>-118.285183465254</lon>
+	</Placemark>
+	<Placemark>
+		<id>1260</id>
+		<name>Norris Dental Science Center</name>
+		<shortName>DEN</shortName>
+		<lat>34.0240361298523</lat>
+		<lon>-118.286336660146</lon>
+	</Placemark>
+	<Placemark>
+		<id>1264</id>
+		<name>Instructional Media Services</name>
+		<shortName>IMS</shortName>
+		<lat>34.0239996738608</lat>
+		<lon>-118.285587403233</lon>
+	</Placemark>
+	<Placemark>
+		<id>1267</id>
+		<name>School of Cinematic Arts</name>
+		<shortName>SCA</shortName>
+		<lat>34.0233010198778</lat>
+		<lon>-118.286743353982</lon>
+	</Placemark>
+	<Placemark>
+		<id>1269</id>
+		<name>Humanities and Social Sciences Annex</name>
+		<shortName>HSS</shortName>
+		<lat>34.0234868524307</lat>
+		<lon>-118.287264004149</lon>
+	</Placemark>
+	<Placemark>
+		<id>1271</id>
+		<name>Physical Plant Operations Building A</name>
+		<shortName>POA</shortName>
+		<lat>34.0238046864325</lat>
+		<lon>-118.28719456391</lon>
+	</Placemark>
+	<Placemark>
+		<id>1270</id>
+		<name>Physical Plant Operations Building B</name>
+		<shortName>POB</shortName>
+		<lat>34.0237708951415</lat>
+		<lon>-118.287309147698</lon>
+	</Placemark>
+	<Placemark>
+		<id>1054</id>
+		<name>Fluor Tower</name>
+		<shortName>FLT</shortName>
+		<lat>34.0249237622555</lat>
+		<lon>-118.288228166914</lon>
+	</Placemark>
+	<Placemark>
+		<id>1278</id>
+		<name>Lyon Center</name>
+		<shortName>LRC</shortName>
+		<lat>34.0244570002694</lat>
+		<lon>-118.288449999778</lon>
+	</Placemark>
+	<Placemark>
+		<id>1281</id>
+		<name>Webb Tower</name>
+		<shortName>WTO</shortName>
+		<lat>34.0246315640027</lat>
+		<lon>-118.287635676905</lon>
+	</Placemark>
+	<Placemark>
+		<id>1283</id>
+		<name>Jefferson Building</name>
+		<shortName>JEF</shortName>
+		<lat>34.0246745550215</lat>
+		<lon>-118.286862332787</lon>
+	</Placemark>
+	<Placemark>
+		<id>1284</id>
+		<name>McClintock Building and Theatre</name>
+		<shortName>MCC</shortName>
+		<lat>34.0250025344765</lat>
+		<lon>-118.287476181496</lon>
+	</Placemark>
+	<Placemark>
+		<id>1285</id>
+		<name>Parking Structure B</name>
+		<shortName>PSB</shortName>
+		<lat>34.0248129512602</lat>
+		<lon>-118.289357380592</lon>
+	</Placemark>
+	<Placemark>
+		<id>1288</id>
+		<name>Irani Hall</name>
+		<shortName>RRI</shortName>
+		<lat>34.0221395003676</lat>
+		<lon>-118.290114999749</lon>
+	</Placemark>
+	<Placemark>
+		<id>1106</id>
+		<name>Ahmanson Center</name>
+		<shortName>ACB</shortName>
+		<lat>34.0194723168437</lat>
+		<lon>-118.287150062282</lon>
+	</Placemark>
+	<Placemark>
+		<id>1293</id>
+		<name>Norris Cinema Theatre</name>
+		<shortName>NCT</shortName>
+		<lat>34.0220830001839</lat>
+		<lon>-118.285160999811</lon>
+	</Placemark>
+	<Placemark>
+		<id>1184</id>
+		<name>Parking Structure Two</name>
+		<shortName>PS2</shortName>
+		<lat>34.0187523257469</lat>
+		<lon>-118.280955167201</lon>
+	</Placemark>
+	<Placemark>
+		<id>1185</id>
+		<name>Hubbard Hall</name>
+		<shortName>JHH</shortName>
+		<lat>34.0194892101228</lat>
+		<lon>-118.284078332542</lon>
+	</Placemark>
+	<Placemark>
+		<id>1187</id>
+		<name>Doheny Memorial Library</name>
+		<shortName>DML</shortName>
+		<lat>34.0201912095766</lat>
+		<lon>-118.283682288153</lon>
+	</Placemark>
+	<Placemark>
+		<id>1108</id>
+		<name>Bovard Administration Building</name>
+		<shortName>ADM</shortName>
+		<lat>34.0209635479847</lat>
+		<lon>-118.285473582239</lon>
+	</Placemark>
+	<Placemark>
+		<id>1196</id>
+		<name>Physical Education Building</name>
+		<shortName>PED</shortName>
+		<lat>34.0214587868681</lat>
+		<lon>-118.28657890219</lon>
+	</Placemark>
+	<Placemark>
+		<id>1198</id>
+		<name>Heritage Hall</name>
+		<shortName>HER</shortName>
+		<lat>34.0225430000283</lat>
+		<lon>-118.286762500603</lon>
+	</Placemark>
+	<Placemark>
+		<id>1199</id>
+		<name>Galen Athletic Center</name>
+		<shortName>GAP</shortName>
+		<lat>34.022905778534</lat>
+		<lon>-118.287005381266</lon>
+	</Placemark>
+	<Placemark>
+		<id>1201</id>
+		<name>Social Sciences Building</name>
+		<shortName>SOS</shortName>
+		<lat>34.021579000039</lat>
+		<lon>-118.283677500015</lon>
+	</Placemark>
+	<Placemark>
+		<id>1204</id>
+		<name>Leavey Library</name>
+		<shortName>LVL</shortName>
+		<lat>34.0218015004903</lat>
+		<lon>-118.282755999345</lon>
+	</Placemark>
+	<Placemark>
+		<id>1207</id>
+		<name>Birnkrant Residential College</name>
+		<shortName>BSR</shortName>
+		<lat>34.021483481721</lat>
+		<lon>-118.282238713109</lon>
+	</Placemark>
+	<Placemark>
+		<id>1210</id>
+		<name>EVerybody's Kitchen</name>
+		<shortName>BSR</shortName>
+		<lat>34.0213009216192</lat>
+		<lon>-118.281817938764</lon>
+	</Placemark>
+	<Placemark>
+		<id>1212</id>
+		<name>North Residential College</name>
+		<shortName>NRC</shortName>
+		<lat>34.0210441404931</lat>
+		<lon>-118.281242792619</lon>
+	</Placemark>
+	<Placemark>
+		<id>1213</id>
+		<name>Davidson Continuing Education Center</name>
+		<shortName>DCC</shortName>
+		<lat>34.0216654093996</lat>
+		<lon>-118.280519031657</lon>
+	</Placemark>
+	<Placemark>
+		<id>1216</id>
+		<name>Parking Structure D</name>
+		<shortName>PSD</shortName>
+		<lat>34.0220946230899</lat>
+		<lon>-118.281496427071</lon>
+	</Placemark>
+	<Placemark>
+		<id>1218</id>
+		<name>Social Work Center</name>
+		<shortName>SWC</shortName>
+		<lat>34.0225460000941</lat>
+		<lon>-118.282259999897</lon>
+	</Placemark>
+	<Placemark>
+		<id>1221</id>
+		<name>Montgomery Ross Fisher Building</name>
+		<shortName>MRF</shortName>
+		<lat>34.0223460000759</lat>
+		<lon>-118.282449999994</lon>
+	</Placemark>
+	<Placemark>
+		<id>1224</id>
+		<name>Stoops Hall</name>
+		<shortName>EDL</shortName>
+		<lat>34.0226135852887</lat>
+		<lon>-118.283072268756</lon>
+	</Placemark>
+	<Placemark>
+		<id>1226</id>
+		<name>College Academic Services Building</name>
+		<shortName>CAS</shortName>
+		<lat>34.0223739022599</lat>
+		<lon>-118.28359921604</lon>
+	</Placemark>
+	<Placemark>
+		<id>1230</id>
+		<name>Taper Hall</name>
+		<shortName>THH</shortName>
+		<lat>34.0222947360646</lat>
+		<lon>-118.284492426746</lon>
+	</Placemark>
+	<Placemark>
+		<id>1235</id>
+		<name>Booth Hall</name>
+		<shortName>BMH</shortName>
+		<lat>34.0227767157132</lat>
+		<lon>-118.284613801523</lon>
+	</Placemark>
+	<Placemark>
+		<id>1236</id>
+		<name>Jeanette MacDonald Recital Hall</name>
+		<shortName>MUS</shortName>
+		<lat>34.0229742282376</lat>
+		<lon>-118.285054000457</lon>
+	</Placemark>
+	<Placemark>
+		<id>1238</id>
+		<name>University Religious Center</name>
+		<shortName>URC</shortName>
+		<lat>34.0233665427459</lat>
+		<lon>-118.284700875399</lon>
+	</Placemark>
+	<Placemark>
+		<id>1240</id>
+		<name>United University Church</name>
+		<shortName>UUC</shortName>
+		<lat>34.0231422393221</lat>
+		<lon>-118.284232311757</lon>
+	</Placemark>
+</resource>

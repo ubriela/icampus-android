@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/icampus/!svn/ver/247/iCampusMobile_1.0/src/edu/usc/imsc/services
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/icampus/!svn/ver/299/iCampusMobile_1.0/src/edu/usc/imsc/services/Controller.java
+END
+SaveLocationIntentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/services/SaveLocationIntentService.java
+END
+PersonalizedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/icampus/!svn/ver/245/iCampusMobile_1.0/src/edu/usc/imsc/services/PersonalizedService.java
+END
+Binding.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/icampus/!svn/ver/299/iCampusMobile_1.0/src/edu/usc/imsc/services/Binding.java
+END
+MessengerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/icampus/!svn/ver/299/iCampusMobile_1.0/src/edu/usc/imsc/services/MessengerService.java
+END

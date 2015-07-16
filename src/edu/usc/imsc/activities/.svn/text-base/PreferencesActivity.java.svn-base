@@ -1,0 +1,43 @@
+/**
+ * 
+ */
+package edu.usc.imsc.activities;
+
+import android.os.Bundle;
+import android.preference.PreferenceActivity;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
+
+import edu.usc.imsc.R;
+
+import edu.usc.imsc.util.Tools;
+
+/**
+ * @author Ling
+ *
+ */
+public class PreferencesActivity extends PreferenceActivity {
+
+	/* (non-Javadoc)
+	 * @see android.preference.PreferenceActivity#onCreate(android.os.Bundle)
+	 */
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		this.addPreferencesFromResource(R.layout.preferences);
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		menu.add(Menu.NONE, 0, 0, "Show current settings");
+		return super.onCreateOptionsMenu(menu);
+	}
+
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		Log.i(Tools.TAG, ""+item.getItemId());
+		return super.onOptionsItemSelected(item);
+	}
+
+}

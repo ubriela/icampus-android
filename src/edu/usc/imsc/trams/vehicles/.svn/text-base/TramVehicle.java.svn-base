@@ -1,0 +1,127 @@
+package edu.usc.imsc.trams.vehicles;
+
+import com.google.android.maps.GeoPoint;
+
+/**
+ * @author infolab
+ */
+public class TramVehicle {
+
+	/**
+	 * @uml.property name="id"
+	 */
+	private int id;
+	/**
+	 * @uml.property name="coord"
+	 */
+	private GeoPoint coord;
+	/**
+	 * @uml.property name="route"
+	 */
+	private String route;
+	/**
+	 * @uml.property name="doorClosed"
+	 */
+	private boolean doorClosed;
+	/**
+	 * @uml.property name="time"
+	 */
+	private String time;
+	/**
+	 * @uml.property name="speed"
+	 */
+	private double speed;
+	/**
+	 * @uml.property name="heading"
+	 */
+	private String heading;
+
+	/**
+	 * 
+	 * @param id
+	 * @param coord
+	 * @param route
+	 * @param doorClosed
+	 * @param time
+	 * @param speed
+	 * @param heading
+	 */
+	public TramVehicle(int id, GeoPoint coord, String route,
+			boolean doorClosed, String time, double speed, String heading) {
+		super();
+		this.id = id;
+		this.coord = coord;
+		this.route = route;
+		this.doorClosed = doorClosed;
+		this.time = time;
+		this.speed = speed;
+		this.heading = heading;
+	}
+
+	/**
+	 * @return the id
+	 * @uml.property name="id"
+	 */
+	public int getId() {
+		return id;
+	}
+
+	/**
+	 * @return the coord
+	 * @uml.property name="coord"
+	 */
+	public GeoPoint getCoord() {
+		return coord;
+	}
+
+	/**
+	 * @return
+	 * @uml.property name="route"
+	 */
+	public String getRoute() {
+		return route;
+	}
+
+	/**
+	 * @return
+	 * @uml.property name="doorClosed"
+	 */
+	public boolean isDoorClosed() {
+		return doorClosed;
+	}
+
+	/**
+	 * @return
+	 * @uml.property name="time"
+	 */
+	public String getTime() {
+		return time;
+	}
+
+	/**
+	 * @return
+	 * @uml.property name="speed"
+	 */
+	public double getSpeed() {
+		return speed;
+	}
+
+	/**
+	 * @return
+	 * @uml.property name="heading"
+	 */
+	public String getHeading() {
+		return heading;
+	}
+
+	/*
+	 * (non-Javadoc)
+	 * 
+	 * @see java.lang.Object#toString()
+	 */
+	@Override
+	public String toString() {
+		return "TramVehicle [coord=" + coord + ", id=" + id + "]";
+	}
+
+}

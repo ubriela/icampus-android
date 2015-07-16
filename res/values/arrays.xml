@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+	<string-array name="updateInterval">
+		<item name="3">Every 3 second</item>
+		<item name="30">Every 30 seconds</item>
+		<item name="60">Every 1 minute</item>
+		<item name="300">Every 5 minute</item>
+		<item name="600">Every 10 minutes</item>
+	</string-array>
+
+	<string-array name="updateIntervalValues">
+		<item>3</item>
+		<item>30</item>
+		<item>60</item>
+		<item>300</item>
+		<item>10</item>
+	</string-array>
+
+	<!-- <string-array name="tramRoutes"> -->
+	<!-- <item>Route A</item> -->
+	<!-- </string-array> -->
+
+	<string-array name="tramRoutes">
+		<item>Route A</item>
+		<item>Route B</item>
+		<item>Route C</item>
+		<item>Parking Center</item>
+	</string-array>
+	<string-array name="tramRoutesValues">
+		<item>937</item>
+		<item>938</item>
+		<item>691</item>
+		<item>919</item>
+	</string-array>
+
+	<string-array name="eventCategories">
+		<item name="music">Music</item>
+		<item name="art">Art</item>
+		<item name="technology">Technology</item>
+		<item name="academic_lectures">Academic Lectures</item>
+		<item name="exhibits">Exhibits</item>
+		<item name="banquets_receptions">Banquets/Receptions</item>
+		<item name="interdisciplinary_research_group">Interdisciplinary Research Group</item>
+		<item name="public_lectures">Public Lectures</item>
+		<item name="academic_conferences">Academic Conferences</item>
+		<item name="medical_lectures">Medical Lectures</item>
+		<item name="academic_lectures_discussions">Academic Lectures/Discussions</item>
+		<item name="student_sponsored_events">Student Sponsored Events</item>
+		<item name="sports_recreational">Sports-Recreational</item>
+		<item name="theater">Theater</item>
+		<item name="faculty_forum">Faculty Forum</item>
+	</string-array>
+	<string-array name="eventCategoriesValues">
+		<item>music</item>
+		<item>art</item>
+		<item>technology</item>
+		<item>academic_lectures</item>
+		<item>exhibits</item>
+		<item>banquets_receptions</item>
+		<item>interdisciplinary_research_group</item>
+		<item>public_lectures</item>
+		<item>academic_conferences</item>
+		<item>medical_lectures</item>
+		<item>academic_lectures_discussions</item>
+		<item>student_sponsored_events</item>
+		<item>sports_recreational</item>
+		<item>theater</item>
+		<item>faculty_forum</item>
+	</string-array>
+
+	<string-array name="mapLayerTypes">
+		<item name="satellite">Satellite</item>
+		<item name="traffic">Traffic</item>
+	</string-array>
+
+	<string-array name="historyLocations">
+		<item>5</item>
+		<item>10</item>
+		<item>15</item>
+		<item name="20">20</item>
+	</string-array>
+	<string-array name="historyLocationsValues">
+		<item>5</item>
+		<item>10</item>
+		<item>15</item>
+		<item>20</item>
+	</string-array>
+
+	<string-array name="distanceBwnPoints">
+		<item>10</item>
+		<item>20</item>
+		<item>50</item>
+		<item>100</item>
+		<item>500</item>
+	</string-array>
+	<string-array name="distanceBwnPointsValues">
+		<item>10</item>
+		<item>20</item>
+		<item>50</item>
+		<item>100</item>
+		<item>500</item>
+	</string-array>
+	<string-array name="distanceToTrajectory">
+		<item>100</item>
+		<item>200</item>
+		<item>500</item>
+		<item>1000</item>
+		<item>5000</item>
+	</string-array>
+	<string-array name="distanceToTrajectoryValues">
+		<item>100</item>
+		<item>200</item>
+		<item>500</item>
+		<item>1000</item>
+		<item>5000</item>
+	</string-array>
+
+	<string-array name="foodLists">
+		<item>5</item>
+		<item>10</item>
+		<item>15</item>
+		<item>20</item>
+	</string-array>
+	<string-array name="foodListsValues">
+		<item>5</item>
+		<item>10</item>
+		<item>15</item>
+		<item>20</item>
+	</string-array>
+</resources>

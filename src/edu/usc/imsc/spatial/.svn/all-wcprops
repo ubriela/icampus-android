@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/icampus/!svn/ver/282/iCampusMobile_1.0/src/edu/usc/imsc/spatial
+END
+LocationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/icampus/!svn/ver/245/iCampusMobile_1.0/src/edu/usc/imsc/spatial/LocationService.java
+END
+BuildingOverlayItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/icampus/!svn/ver/282/iCampusMobile_1.0/src/edu/usc/imsc/spatial/BuildingOverlayItem.java
+END
+BuildingOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/icampus/!svn/ver/299/iCampusMobile_1.0/src/edu/usc/imsc/spatial/BuildingOverlay.java
+END
+BuildingDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/icampus/!svn/ver/282/iCampusMobile_1.0/src/edu/usc/imsc/spatial/BuildingDialog.java
+END
+AbstractPointPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/icampus/!svn/ver/265/iCampusMobile_1.0/src/edu/usc/imsc/spatial/AbstractPointPlace.java
+END
+Vendor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/icampus/!svn/ver/265/iCampusMobile_1.0/src/edu/usc/imsc/spatial/Vendor.java
+END
+Place.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/icampus/!svn/ver/306/iCampusMobile_1.0/src/edu/usc/imsc/spatial/Place.java
+END
+VendorHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/icampus/!svn/ver/265/iCampusMobile_1.0/src/edu/usc/imsc/spatial/VendorHolder.java
+END
+Building.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/icampus/!svn/ver/282/iCampusMobile_1.0/src/edu/usc/imsc/spatial/Building.java
+END
+PlaceHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/icampus/!svn/ver/282/iCampusMobile_1.0/src/edu/usc/imsc/spatial/PlaceHolder.java
+END
